@@ -1,40 +1,45 @@
-## Wesley | Systems Engineer & Software Developer
+<!-- GitHub profile README: github.com/wewesss/wewesss -->
 
-I build high-performance software systems with a strong focus on low-level design, backend architecture, and efficiency. I also work across the full stack when needed, with a preference for minimal and controlled frontend implementations.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+    <img src="./assets/hero-light.svg" alt="wewesss. Software, games and experiments." width="100%">
+  </picture>
+</p>
 
----
+<p align="center">
+  Mostly building stuff. Web apps, games, tools, low-level experiments.<br>
+  No fixed stack. It depends on what I'm making.
+</p>
 
-### Focus
-- System architecture & backend design
-- Performance engineering (CPU, memory, latency)
-- Low-level systems programming (Rust, C, Lua)
-- Full-stack development (React / Node.js), lightweight frontend when required
-- Data systems & relational database design
+### Stuff I work on
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>01 / Web &amp; desktop</strong><br>
+      Full-stack apps, APIs, interfaces, desktop software.
+    </td>
+    <td width="50%" valign="top">
+      <strong>02 / Games</strong><br>
+      Gameplay systems, networking, engines, tools.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>03 / AI &amp; automation</strong><br>
+      Coding agents, custom harnesses, automated workflows.
+    </td>
+    <td width="50%" valign="top">
+      <strong>04 / Systems</strong><br>
+      Runtimes, compilers, libraries, native tooling.
+    </td>
+  </tr>
+</table>
 
-### Stack
-Rust • C • Lua • TypeScript (Node.js / Bun) • React • SCSS / CSS Modules  
-Databases: PostgreSQL • MariaDB • SQLite
-
----
-
-### Database Philosophy
-I focus on understanding database systems at the conceptual level rather than being tied to a specific implementation. This allows me to work efficiently across PostgreSQL, MariaDB, SQLite, and similar systems without friction.
-
----
-
-### Approach
-- Design-first: constraints and data models defined before implementation
-- Measured performance: benchmarking over assumptions
-- Explicit systems: predictable behavior and clear boundaries
-- Technology-agnostic where possible, principle-driven everywhere
-
----
-
-### Philosophy
-Keep systems simple, fast, and understandable. Complexity is a cost, not a feature.
-
----
-
-*Still occasionally optimizing code I wrote years ago.*
+<p align="center">
+  <a href="https://miralabs.tech">miralabs.tech</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/wewesss?tab=repositories">repositories</a>
+</p>
