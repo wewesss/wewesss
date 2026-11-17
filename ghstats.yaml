@@ -9,7 +9,28 @@ scope:
 languages:
   mode: raw
 
+profile:
+  tagline: SOFTWARE · GAMES · EXPERIMENTS
+  location: caen, fr
+  note: no fixed stack — it depends on what I'm making
+  focus:
+    - name: WEB & DESKTOP
+      building: [full-stack apps, desktop software]
+    - name: GAMES
+      building: [gameplay systems, game engines]
+    - name: AI & AUTOMATION
+      building: [coding agents, automated workflows]
+    - name: SYSTEMS
+      building: [runtimes & compilers, native tooling]
+  links:
+    - youtube: "@wewesss14"
+    - twitch: wewesss14
+    - discord: https://discord.com/invite/B6Z5VbA5wd
+    - website: https://miralabs.tech
+    - github_sponsors: wewesss
+
 render:
+  layout: wide
   blocks:
     - stats: [totals, distribution]
     - languages: [bars, iso, cells, treemap, shift, terminal]
