@@ -20,7 +20,7 @@ jobs:
           path: ghstats-data
           token: ${{ secrets.GHSTATS_TOKEN }}
 
-      - uses: wewesss/ghstats@v0
+      - uses: wewesss/ghstats@v1
         with:
           token: ${{ secrets.GHSTATS_TOKEN }}
 
