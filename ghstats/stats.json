@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17T21:26:20.207732684Z",
-  "collected_at": "2026-11-17T21:25:58.897791915Z",
+  "generated_at": "2026-11-17T21:38:04.518497656Z",
+  "collected_at": "2026-11-17T21:37:38.898722454Z",
   "login": "wewesss",
   "totals": {
     "repos": 71,
@@ -343,7 +343,7 @@
   "distribution": [
     {
       "channel": "release_assets",
-      "count": 120,
+      "count": 122,
       "window": "all_time",
       "reliability": "observed",
       "note": "GitHub Release assets only"
