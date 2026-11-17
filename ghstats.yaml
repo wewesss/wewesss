@@ -1,0 +1,17 @@
+version: 1
+
+languages:
+  mode: raw
+
+render:
+  blocks:
+    - stats: [totals, distribution]
+    - languages: [bars, iso, cells, treemap, shift, terminal]
+    - history: [views, clones]
+  private_bar: true
+  languages:
+    colors: accent
+  theme:
+    preset: noir
+    accent: cycle
+  motion: true
