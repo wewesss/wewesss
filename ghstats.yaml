@@ -1,5 +1,11 @@
 version: 1
 
+scope:
+  exclude_repos:
+    - wewesss/skip-anywhere
+    - miralabs-tech/standarui
+    - miralabs-tech/standargraph
+
 languages:
   mode: raw
 
