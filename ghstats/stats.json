@@ -1,0 +1,839 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-17T20:06:45.288331742Z",
+  "collected_at": "2026-11-17T20:06:22.969204763Z",
+  "login": "wewesss",
+  "totals": {
+    "repos": 71,
+    "public_repos": 30,
+    "private_repos": 41,
+    "stars": 14,
+    "forks": 6,
+    "followers": 41
+  },
+  "languages": {
+    "mode": "raw",
+    "raw": [
+      {
+        "name": "TypeScript",
+        "bytes": 3116772,
+        "weighted": 3116772,
+        "share": 0.389837322005669
+      },
+      {
+        "name": "Lua",
+        "bytes": 2125939,
+        "weighted": 2125939,
+        "share": 0.26590663882613486
+      },
+      {
+        "name": "Rust",
+        "bytes": 1199288,
+        "weighted": 1199288,
+        "share": 0.15000366476390792
+      },
+      {
+        "name": "C++",
+        "bytes": 485624,
+        "weighted": 485624,
+        "share": 0.060740522457748275
+      },
+      {
+        "name": "HTML",
+        "bytes": 314181,
+        "weighted": 314181,
+        "share": 0.03929690066038295
+      },
+      {
+        "name": "Go",
+        "bytes": 227471,
+        "weighted": 227471,
+        "share": 0.028451450883783456
+      },
+      {
+        "name": "SCSS",
+        "bytes": 162433,
+        "weighted": 162433,
+        "share": 0.02031667562636819
+      },
+      {
+        "name": "C",
+        "bytes": 152150,
+        "weighted": 152150,
+        "share": 0.019030506095140273
+      },
+      {
+        "name": "JavaScript",
+        "bytes": 76362,
+        "weighted": 76362,
+        "share": 0.00955115022305029
+      },
+      {
+        "name": "CSS",
+        "bytes": 61496,
+        "weighted": 61496,
+        "share": 0.0076917515795382595
+      },
+      {
+        "name": "Shell",
+        "bytes": 18824,
+        "weighted": 18824,
+        "share": 0.0023544544642452874
+      },
+      {
+        "name": "PowerShell",
+        "bytes": 12272,
+        "weighted": 12272,
+        "share": 0.0015349482142593587
+      },
+      {
+        "name": "Svelte",
+        "bytes": 12200,
+        "weighted": 12200,
+        "share": 0.0015259426510727
+      },
+      {
+        "name": "CMake",
+        "bytes": 11477,
+        "weighted": 11477,
+        "share": 0.0014355117874066705
+      },
+      {
+        "name": "Python",
+        "bytes": 5720,
+        "weighted": 5720,
+        "share": 0.0007154419642734299
+      },
+      {
+        "name": "C#",
+        "bytes": 3840,
+        "weighted": 3840,
+        "share": 0.00048029670328845645
+      },
+      {
+        "name": "Dockerfile",
+        "bytes": 2980,
+        "weighted": 2980,
+        "share": 0.00037273025411447923
+      },
+      {
+        "name": "MDX",
+        "bytes": 1548,
+        "weighted": 1548,
+        "share": 0.00019361960851315901
+      },
+      {
+        "name": "Tree-sitter Query",
+        "bytes": 1071,
+        "weighted": 1071,
+        "share": 0.00013395775240154605
+      },
+      {
+        "name": "Batchfile",
+        "bytes": 1036,
+        "weighted": 1036,
+        "share": 0.00012958004807469816
+      },
+      {
+        "name": "Vue",
+        "bytes": 1028,
+        "weighted": 1028,
+        "share": 0.0001285794299428472
+      },
+      {
+        "name": "Assembly",
+        "bytes": 897,
+        "weighted": 897,
+        "share": 0.00011219430803378787
+      },
+      {
+        "name": "Scheme",
+        "bytes": 449,
+        "weighted": 449,
+        "share": 0.00005615969265013462
+      }
+    ],
+    "adjusted": [
+      {
+        "name": "TypeScript",
+        "bytes": 3116772,
+        "weighted": 3116772,
+        "share": 0.389837322005669
+      },
+      {
+        "name": "Lua",
+        "bytes": 2125939,
+        "weighted": 2125939,
+        "share": 0.26590663882613486
+      },
+      {
+        "name": "Rust",
+        "bytes": 1199288,
+        "weighted": 1199288,
+        "share": 0.15000366476390792
+      },
+      {
+        "name": "C++",
+        "bytes": 485624,
+        "weighted": 485624,
+        "share": 0.060740522457748275
+      },
+      {
+        "name": "HTML",
+        "bytes": 314181,
+        "weighted": 314181,
+        "share": 0.03929690066038295
+      },
+      {
+        "name": "Go",
+        "bytes": 227471,
+        "weighted": 227471,
+        "share": 0.028451450883783456
+      },
+      {
+        "name": "SCSS",
+        "bytes": 162433,
+        "weighted": 162433,
+        "share": 0.02031667562636819
+      },
+      {
+        "name": "C",
+        "bytes": 152150,
+        "weighted": 152150,
+        "share": 0.019030506095140273
+      },
+      {
+        "name": "JavaScript",
+        "bytes": 76362,
+        "weighted": 76362,
+        "share": 0.00955115022305029
+      },
+      {
+        "name": "CSS",
+        "bytes": 61496,
+        "weighted": 61496,
+        "share": 0.0076917515795382595
+      },
+      {
+        "name": "Shell",
+        "bytes": 18824,
+        "weighted": 18824,
+        "share": 0.0023544544642452874
+      },
+      {
+        "name": "PowerShell",
+        "bytes": 12272,
+        "weighted": 12272,
+        "share": 0.0015349482142593587
+      },
+      {
+        "name": "Svelte",
+        "bytes": 12200,
+        "weighted": 12200,
+        "share": 0.0015259426510727
+      },
+      {
+        "name": "CMake",
+        "bytes": 11477,
+        "weighted": 11477,
+        "share": 0.0014355117874066705
+      },
+      {
+        "name": "Python",
+        "bytes": 5720,
+        "weighted": 5720,
+        "share": 0.0007154419642734299
+      },
+      {
+        "name": "C#",
+        "bytes": 3840,
+        "weighted": 3840,
+        "share": 0.00048029670328845645
+      },
+      {
+        "name": "Dockerfile",
+        "bytes": 2980,
+        "weighted": 2980,
+        "share": 0.00037273025411447923
+      },
+      {
+        "name": "MDX",
+        "bytes": 1548,
+        "weighted": 1548,
+        "share": 0.00019361960851315901
+      },
+      {
+        "name": "Tree-sitter Query",
+        "bytes": 1071,
+        "weighted": 1071,
+        "share": 0.00013395775240154605
+      },
+      {
+        "name": "Batchfile",
+        "bytes": 1036,
+        "weighted": 1036,
+        "share": 0.00012958004807469816
+      },
+      {
+        "name": "Vue",
+        "bytes": 1028,
+        "weighted": 1028,
+        "share": 0.0001285794299428472
+      },
+      {
+        "name": "Assembly",
+        "bytes": 897,
+        "weighted": 897,
+        "share": 0.00011219430803378787
+      },
+      {
+        "name": "Scheme",
+        "bytes": 449,
+        "weighted": 449,
+        "share": 0.00005615969265013462
+      }
+    ],
+    "display": [
+      {
+        "name": "TypeScript",
+        "bytes": 3116772,
+        "weighted": 3116772,
+        "share": 0.389837322005669
+      },
+      {
+        "name": "Lua",
+        "bytes": 2125939,
+        "weighted": 2125939,
+        "share": 0.26590663882613486
+      },
+      {
+        "name": "Rust",
+        "bytes": 1199288,
+        "weighted": 1199288,
+        "share": 0.15000366476390792
+      },
+      {
+        "name": "C++",
+        "bytes": 485624,
+        "weighted": 485624,
+        "share": 0.060740522457748275
+      },
+      {
+        "name": "HTML",
+        "bytes": 314181,
+        "weighted": 314181,
+        "share": 0.03929690066038295
+      },
+      {
+        "name": "Go",
+        "bytes": 227471,
+        "weighted": 227471,
+        "share": 0.028451450883783456
+      },
+      {
+        "name": "Other",
+        "bytes": 525783,
+        "weighted": 525783,
+        "share": 0.06576350040237358
+      }
+    ],
+    "multipliers": {},
+    "hidden_share": "other"
+  },
+  "distribution": [
+    {
+      "channel": "release_assets",
+      "count": 90,
+      "window": "all_time",
+      "reliability": "observed",
+      "note": "GitHub Release assets only"
+    },
+    {
+      "channel": "clones",
+      "count": 1758,
+      "window": "last_14_days",
+      "reliability": "observed",
+      "note": "summed across repositories; unique visitors are not summed"
+    },
+    {
+      "channel": "clones",
+      "count": 1798,
+      "window": "since:2026-11-03",
+      "reliability": "partial",
+      "note": "some repositories have no traffic data"
+    },
+    {
+      "channel": "views",
+      "count": 97,
+      "window": "last_14_days",
+      "reliability": "observed",
+      "note": "summed across repositories; unique visitors are not summed"
+    },
+    {
+      "channel": "views",
+      "count": 97,
+      "window": "since:2026-11-03",
+      "reliability": "partial",
+      "note": "some repositories have no traffic data"
+    },
+    {
+      "channel": "source_archives",
+      "count": null,
+      "window": "all_time",
+      "reliability": "unavailable",
+      "note": "GitHub exposes no download counter for source archives"
+    }
+  ],
+  "trends": [
+    {
+      "channel": "clones",
+      "weeks": [
+        {
+          "start": "2026-05-25",
+          "count": 0
+        },
+        {
+          "start": "2026-06-01",
+          "count": 0
+        },
+        {
+          "start": "2026-06-08",
+          "count": 0
+        },
+        {
+          "start": "2026-06-15",
+          "count": 0
+        },
+        {
+          "start": "2026-06-22",
+          "count": 0
+        },
+        {
+          "start": "2026-06-29",
+          "count": 0
+        },
+        {
+          "start": "2026-07-06",
+          "count": 0
+        },
+        {
+          "start": "2026-07-13",
+          "count": 0
+        },
+        {
+          "start": "2026-07-20",
+          "count": 0
+        },
+        {
+          "start": "2026-07-27",
+          "count": 0
+        },
+        {
+          "start": "2026-08-03",
+          "count": 0
+        },
+        {
+          "start": "2026-08-10",
+          "count": 0
+        },
+        {
+          "start": "2026-08-17",
+          "count": 0
+        },
+        {
+          "start": "2026-08-24",
+          "count": 0
+        },
+        {
+          "start": "2026-08-31",
+          "count": 0
+        },
+        {
+          "start": "2026-09-07",
+          "count": 0
+        },
+        {
+          "start": "2026-09-14",
+          "count": 0
+        },
+        {
+          "start": "2026-09-21",
+          "count": 0
+        },
+        {
+          "start": "2026-09-28",
+          "count": 0
+        },
+        {
+          "start": "2026-10-05",
+          "count": 0
+        },
+        {
+          "start": "2026-10-12",
+          "count": 0
+        },
+        {
+          "start": "2026-10-19",
+          "count": 0
+        },
+        {
+          "start": "2026-10-26",
+          "count": 0
+        },
+        {
+          "start": "2026-11-02",
+          "count": 555
+        },
+        {
+          "start": "2026-11-09",
+          "count": 1217
+        },
+        {
+          "start": "2026-11-16",
+          "count": 26
+        }
+      ],
+      "days": [
+        {
+          "day": "2026-10-21",
+          "count": 0
+        },
+        {
+          "day": "2026-10-22",
+          "count": 0
+        },
+        {
+          "day": "2026-10-23",
+          "count": 0
+        },
+        {
+          "day": "2026-10-24",
+          "count": 0
+        },
+        {
+          "day": "2026-10-25",
+          "count": 0
+        },
+        {
+          "day": "2026-10-26",
+          "count": 0
+        },
+        {
+          "day": "2026-10-27",
+          "count": 0
+        },
+        {
+          "day": "2026-10-28",
+          "count": 0
+        },
+        {
+          "day": "2026-10-29",
+          "count": 0
+        },
+        {
+          "day": "2026-10-30",
+          "count": 0
+        },
+        {
+          "day": "2026-10-31",
+          "count": 0
+        },
+        {
+          "day": "2026-11-01",
+          "count": 0
+        },
+        {
+          "day": "2026-11-02",
+          "count": 0
+        },
+        {
+          "day": "2026-11-03",
+          "count": 40
+        },
+        {
+          "day": "2026-11-04",
+          "count": 31
+        },
+        {
+          "day": "2026-11-05",
+          "count": 9
+        },
+        {
+          "day": "2026-11-06",
+          "count": 12
+        },
+        {
+          "day": "2026-11-07",
+          "count": 104
+        },
+        {
+          "day": "2026-11-08",
+          "count": 359
+        },
+        {
+          "day": "2026-11-09",
+          "count": 342
+        },
+        {
+          "day": "2026-11-10",
+          "count": 56
+        },
+        {
+          "day": "2026-11-11",
+          "count": 190
+        },
+        {
+          "day": "2026-11-12",
+          "count": 318
+        },
+        {
+          "day": "2026-11-13",
+          "count": 127
+        },
+        {
+          "day": "2026-11-14",
+          "count": 78
+        },
+        {
+          "day": "2026-11-15",
+          "count": 106
+        },
+        {
+          "day": "2026-11-16",
+          "count": 26
+        },
+        {
+          "day": "2026-11-17",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "channel": "views",
+      "weeks": [
+        {
+          "start": "2026-05-25",
+          "count": 0
+        },
+        {
+          "start": "2026-06-01",
+          "count": 0
+        },
+        {
+          "start": "2026-06-08",
+          "count": 0
+        },
+        {
+          "start": "2026-06-15",
+          "count": 0
+        },
+        {
+          "start": "2026-06-22",
+          "count": 0
+        },
+        {
+          "start": "2026-06-29",
+          "count": 0
+        },
+        {
+          "start": "2026-07-06",
+          "count": 0
+        },
+        {
+          "start": "2026-07-13",
+          "count": 0
+        },
+        {
+          "start": "2026-07-20",
+          "count": 0
+        },
+        {
+          "start": "2026-07-27",
+          "count": 0
+        },
+        {
+          "start": "2026-08-03",
+          "count": 0
+        },
+        {
+          "start": "2026-08-10",
+          "count": 0
+        },
+        {
+          "start": "2026-08-17",
+          "count": 0
+        },
+        {
+          "start": "2026-08-24",
+          "count": 0
+        },
+        {
+          "start": "2026-08-31",
+          "count": 0
+        },
+        {
+          "start": "2026-09-07",
+          "count": 0
+        },
+        {
+          "start": "2026-09-14",
+          "count": 0
+        },
+        {
+          "start": "2026-09-21",
+          "count": 0
+        },
+        {
+          "start": "2026-09-28",
+          "count": 0
+        },
+        {
+          "start": "2026-10-05",
+          "count": 0
+        },
+        {
+          "start": "2026-10-12",
+          "count": 0
+        },
+        {
+          "start": "2026-10-19",
+          "count": 0
+        },
+        {
+          "start": "2026-10-26",
+          "count": 0
+        },
+        {
+          "start": "2026-11-02",
+          "count": 43
+        },
+        {
+          "start": "2026-11-09",
+          "count": 53
+        },
+        {
+          "start": "2026-11-16",
+          "count": 1
+        }
+      ],
+      "days": [
+        {
+          "day": "2026-10-21",
+          "count": 0
+        },
+        {
+          "day": "2026-10-22",
+          "count": 0
+        },
+        {
+          "day": "2026-10-23",
+          "count": 0
+        },
+        {
+          "day": "2026-10-24",
+          "count": 0
+        },
+        {
+          "day": "2026-10-25",
+          "count": 0
+        },
+        {
+          "day": "2026-10-26",
+          "count": 0
+        },
+        {
+          "day": "2026-10-27",
+          "count": 0
+        },
+        {
+          "day": "2026-10-28",
+          "count": 0
+        },
+        {
+          "day": "2026-10-29",
+          "count": 0
+        },
+        {
+          "day": "2026-10-30",
+          "count": 0
+        },
+        {
+          "day": "2026-10-31",
+          "count": 0
+        },
+        {
+          "day": "2026-11-01",
+          "count": 0
+        },
+        {
+          "day": "2026-11-02",
+          "count": 0
+        },
+        {
+          "day": "2026-11-03",
+          "count": 0
+        },
+        {
+          "day": "2026-11-04",
+          "count": 6
+        },
+        {
+          "day": "2026-11-05",
+          "count": 20
+        },
+        {
+          "day": "2026-11-06",
+          "count": 7
+        },
+        {
+          "day": "2026-11-07",
+          "count": 7
+        },
+        {
+          "day": "2026-11-08",
+          "count": 3
+        },
+        {
+          "day": "2026-11-09",
+          "count": 31
+        },
+        {
+          "day": "2026-11-10",
+          "count": 0
+        },
+        {
+          "day": "2026-11-11",
+          "count": 0
+        },
+        {
+          "day": "2026-11-12",
+          "count": 2
+        },
+        {
+          "day": "2026-11-13",
+          "count": 10
+        },
+        {
+          "day": "2026-11-14",
+          "count": 0
+        },
+        {
+          "day": "2026-11-15",
+          "count": 10
+        },
+        {
+          "day": "2026-11-16",
+          "count": 1
+        },
+        {
+          "day": "2026-11-17",
+          "count": 0
+        }
+      ]
+    }
+  ],
+  "warnings": [
+    "21 traffic collection errors",
+    "21 of 71 repositories have no traffic data in this snapshot"
+  ]
+}
