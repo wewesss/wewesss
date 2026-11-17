@@ -15,13 +15,13 @@ profile:
   note: no fixed stack — it depends on what I'm making
   focus:
     - name: WEB & DESKTOP
-      building: [full-stack apps, desktop software]
+      building: [headless UI kits, browser extensions, Rust desktop apps]
     - name: GAMES
-      building: [gameplay systems, game engines]
+      building: [Unreal Engine tooling, modding toolchains, indie games]
     - name: AI & AUTOMATION
-      building: [coding agents, automated workflows]
+      building: [agent-driven toolchains, MCP servers, review loops for agents]
     - name: SYSTEMS
-      building: [runtimes & compilers, native tooling]
+      building: [an embeddable scripting language, pattern-matching libs, low-level C & asm]
   links:
     - youtube: "@wewesss14"
     - twitch: wewesss14
