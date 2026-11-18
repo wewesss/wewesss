@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17T22:46:51.599378191Z",
-  "collected_at": "2026-11-17T22:46:27.774577268Z",
+  "generated_at": "2026-11-18T11:52:05.625204713Z",
+  "collected_at": "2026-11-18T11:51:41.624337607Z",
   "login": "wewesss",
   "totals": {
     "repos": 71,
@@ -16,307 +16,307 @@
     "raw": [
       {
         "name": "TypeScript",
-        "bytes": 3116772,
-        "weighted": 3116772,
-        "share": 0.3878191732065909
+        "bytes": 3151073,
+        "weighted": 3151073,
+        "share": 0.38855844580222326
       },
       {
         "name": "Lua",
         "bytes": 2125939,
         "weighted": 2125939,
-        "share": 0.2645300667702503
+        "share": 0.26214929127644226
       },
       {
         "name": "Rust",
         "bytes": 1199288,
         "weighted": 1199288,
-        "share": 0.1492271108045715
+        "share": 0.1478840640471537
       },
       {
         "name": "C++",
         "bytes": 485624,
         "weighted": 485624,
-        "share": 0.06042607485221167
+        "share": 0.05988223906087192
       },
       {
         "name": "HTML",
         "bytes": 314181,
         "weighted": 314181,
-        "share": 0.039093464538702195
+        "share": 0.03874162263476229
       },
       {
         "name": "Go",
-        "bytes": 269076,
-        "weighted": 269076,
-        "share": 0.033481060484930124
+        "bytes": 299278,
+        "weighted": 299278,
+        "share": 0.03690393543494479
       },
       {
         "name": "SCSS",
         "bytes": 162433,
         "weighted": 162433,
-        "share": 0.020211498230048964
+        "share": 0.0200295943721369
       },
       {
         "name": "C",
         "bytes": 152150,
         "weighted": 152150,
-        "share": 0.018931987069757683
+        "share": 0.018761598835954695
       },
       {
         "name": "JavaScript",
         "bytes": 76362,
         "weighted": 76362,
-        "share": 0.00950170487427431
+        "share": 0.009416189354657722
       },
       {
         "name": "CSS",
-        "bytes": 61496,
-        "weighted": 61496,
-        "share": 0.007651932151441463
+        "bytes": 67653,
+        "weighted": 67653,
+        "share": 0.008342283575740014
       },
       {
         "name": "Shell",
-        "bytes": 18824,
-        "weighted": 18824,
-        "share": 0.0023422656891299285
+        "bytes": 21151,
+        "weighted": 21151,
+        "share": 0.002608127354448096
       },
       {
         "name": "PowerShell",
         "bytes": 12272,
         "weighted": 12272,
-        "share": 0.0015270019409797326
+        "share": 0.00151325889526675
       },
       {
         "name": "Svelte",
         "bytes": 12200,
         "weighted": 12200,
-        "share": 0.0015180429986923678
+        "share": 0.0015043805836256806
       },
       {
         "name": "CMake",
         "bytes": 11477,
         "weighted": 11477,
-        "share": 0.0014280802865567462
+        "share": 0.0014152275375632734
       },
       {
         "name": "Python",
         "bytes": 5720,
         "weighted": 5720,
-        "share": 0.0007117381928295364
+        "share": 0.0007053325359294174
       },
       {
         "name": "C#",
         "bytes": 3840,
         "weighted": 3840,
-        "share": 0.0004778102553261223
+        "share": 0.00047350995419037813
       },
       {
         "name": "Dockerfile",
         "bytes": 2980,
         "weighted": 2980,
-        "share": 0.0003708006668937095
+        "share": 0.000367463454033158
       },
       {
         "name": "MDX",
         "bytes": 1548,
         "weighted": 1548,
-        "share": 0.00019261725917834306
+        "share": 0.00019088370028299618
       },
       {
         "name": "Tree-sitter Query",
         "bytes": 1071,
         "weighted": 1071,
-        "share": 0.0001332642665245513
+        "share": 0.00013206488566091016
       },
       {
         "name": "Batchfile",
         "bytes": 1036,
         "weighted": 1036,
-        "share": 0.00012890922513486008
+        "share": 0.0001277490397242791
       },
       {
         "name": "Vue",
         "bytes": 1028,
         "weighted": 1028,
-        "share": 0.00012791378710293066
+        "share": 0.00012676256065304915
       },
       {
         "name": "Assembly",
         "bytes": 897,
         "weighted": 897,
-        "share": 0.00011161348933008638
+        "share": 0.00011060896586165865
       },
       {
         "name": "Scheme",
         "bytes": 449,
         "weighted": 449,
-        "share": 0.000055868959542038776
+        "share": 0.00005536613787278119
       }
     ],
     "adjusted": [
       {
         "name": "TypeScript",
-        "bytes": 3116772,
-        "weighted": 3116772,
-        "share": 0.4156497927000049
+        "bytes": 3151073,
+        "weighted": 3151073,
+        "share": 0.4165120258947895
       },
       {
         "name": "Lua",
         "bytes": 2125939,
         "weighted": 2125939,
-        "share": 0.28351323248632104
+        "share": 0.2810087737791993
       },
       {
         "name": "Rust",
         "bytes": 1199288,
         "weighted": 1199288,
-        "share": 0.1599359236375338
+        "share": 0.15852310451433854
       },
       {
         "name": "C++",
         "bytes": 485624,
         "weighted": 485624,
-        "share": 0.0647623614849425
+        "share": 0.06419027298419656
       },
       {
         "name": "Go",
-        "bytes": 269076,
-        "weighted": 269076,
-        "share": 0.03588372316632289
+        "bytes": 299278,
+        "weighted": 299278,
+        "share": 0.03955886965669815
       },
       {
         "name": "C",
         "bytes": 152150,
         "weighted": 152150,
-        "share": 0.020290581396170702
+        "share": 0.020111341355751586
       },
       {
         "name": "JavaScript",
         "bytes": 76362,
         "weighted": 76362,
-        "share": 0.010183564749092258
+        "share": 0.010093606629036495
       },
       {
         "name": "Shell",
-        "bytes": 18824,
-        "weighted": 18824,
-        "share": 0.0025103509970523645
+        "bytes": 21151,
+        "weighted": 21151,
+        "share": 0.0027957606376306393
       },
       {
         "name": "PowerShell",
         "bytes": 12272,
         "weighted": 12272,
-        "share": 0.00163658241796784
+        "share": 0.0016221254099098486
       },
       {
         "name": "Svelte",
         "bytes": 12200,
         "weighted": 12200,
-        "share": 0.0016269805654504277
+        "share": 0.001612608376866049
       },
       {
         "name": "CMake",
         "bytes": 11477,
         "weighted": 11477,
-        "share": 0.0015305619630880784
+        "share": 0.001517041503384561
       },
       {
         "name": "Python",
         "bytes": 5720,
         "weighted": 5720,
-        "share": 0.0007628138388833152
+        "share": 0.0007560754029240819
       },
       {
         "name": "C#",
         "bytes": 3840,
         "weighted": 3840,
-        "share": 0.0005120988009286591
+        "share": 0.0005075750956693137
       },
       {
         "name": "Dockerfile",
         "bytes": 2980,
         "weighted": 2980,
-        "share": 0.0003974100069706782
+        "share": 0.00039389942320170704
       },
       {
         "name": "MDX",
         "bytes": 1548,
         "weighted": 1548,
-        "share": 0.00020643982912436573
+        "share": 0.00020461621044169212
       },
       {
         "name": "Tree-sitter Query",
         "bytes": 1071,
         "weighted": 1071,
-        "share": 0.00014282755619650885
+        "share": 0.00014156586652651956
       },
       {
         "name": "Batchfile",
         "bytes": 1036,
         "weighted": 1036,
-        "share": 0.0001381599890005445
+        "share": 0.00013693953101911695
       },
       {
         "name": "Vue",
         "bytes": 1028,
         "weighted": 1028,
-        "share": 0.0001370931164986098
+        "share": 0.0001358820829031392
       },
       {
         "name": "Assembly",
         "bytes": 897,
         "weighted": 897,
-        "share": 0.00011962307927942897
+        "share": 0.00011856637000400376
       },
       {
         "name": "Scheme",
         "bytes": 449,
         "weighted": 449,
-        "share": 0.000059878219171085406
+        "share": 0.00005934927550925049
       }
     ],
     "display": [
       {
         "name": "TypeScript",
-        "bytes": 3116772,
-        "weighted": 3116772,
-        "share": 0.4156497927000049
+        "bytes": 3151073,
+        "weighted": 3151073,
+        "share": 0.4165120258947895
       },
       {
         "name": "Lua",
         "bytes": 2125939,
         "weighted": 2125939,
-        "share": 0.28351323248632104
+        "share": 0.2810087737791993
       },
       {
         "name": "Rust",
         "bytes": 1199288,
         "weighted": 1199288,
-        "share": 0.1599359236375338
+        "share": 0.15852310451433854
       },
       {
         "name": "C++",
         "bytes": 485624,
         "weighted": 485624,
-        "share": 0.0647623614849425
+        "share": 0.06419027298419656
       },
       {
         "name": "Go",
-        "bytes": 269076,
-        "weighted": 269076,
-        "share": 0.03588372316632289
+        "bytes": 299278,
+        "weighted": 299278,
+        "share": 0.03955886965669815
       },
       {
         "name": "C",
         "bytes": 152150,
         "weighted": 152150,
-        "share": 0.020290581396170702
+        "share": 0.020111341355751586
       },
       {
         "name": "Other",
-        "bytes": 149704,
-        "weighted": 149704,
-        "share": 0.019964385128704163
+        "bytes": 152031,
+        "weighted": 152031,
+        "share": 0.020095611815026417
       }
     ],
     "multipliers": {
@@ -329,35 +329,35 @@
   "distribution": [
     {
       "channel": "release_assets",
-      "count": 142,
+      "count": 169,
       "window": "all_time",
       "reliability": "observed",
       "note": "GitHub Release assets only"
     },
     {
       "channel": "clones",
-      "count": 1758,
+      "count": 2065,
       "window": "last_14_days",
       "reliability": "observed",
       "note": "summed across repositories; unique visitors are not summed"
     },
     {
       "channel": "clones",
-      "count": 1798,
+      "count": 2136,
       "window": "since:2026-11-03",
       "reliability": "partial",
       "note": "some repositories have no traffic data"
     },
     {
       "channel": "views",
-      "count": 97,
+      "count": 94,
       "window": "last_14_days",
       "reliability": "observed",
       "note": "summed across repositories; unique visitors are not summed"
     },
     {
       "channel": "views",
-      "count": 97,
+      "count": 100,
       "window": "since:2026-11-03",
       "reliability": "partial",
       "note": "some repositories have no traffic data"
@@ -476,14 +476,10 @@
         },
         {
           "start": "2026-11-16",
-          "count": 26
+          "count": 364
         }
       ],
       "days": [
-        {
-          "day": "2026-10-21",
-          "count": 0
-        },
         {
           "day": "2026-10-22",
           "count": 0
@@ -590,6 +586,10 @@
         },
         {
           "day": "2026-11-17",
+          "count": 338
+        },
+        {
+          "day": "2026-11-18",
           "count": 0
         }
       ]
@@ -699,14 +699,10 @@
         },
         {
           "start": "2026-11-16",
-          "count": 1
+          "count": 4
         }
       ],
       "days": [
-        {
-          "day": "2026-10-21",
-          "count": 0
-        },
         {
           "day": "2026-10-22",
           "count": 0
@@ -813,6 +809,10 @@
         },
         {
           "day": "2026-11-17",
+          "count": 3
+        },
+        {
+          "day": "2026-11-18",
           "count": 0
         }
       ]
