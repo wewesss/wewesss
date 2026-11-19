@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T11:52:05.625204713Z",
-  "collected_at": "2026-11-18T11:51:41.624337607Z",
+  "generated_at": "2026-11-19T11:48:59.356737006Z",
+  "collected_at": "2026-11-19T11:48:36.250946233Z",
   "login": "wewesss",
   "totals": {
     "repos": 71,
@@ -18,139 +18,139 @@
         "name": "TypeScript",
         "bytes": 3151073,
         "weighted": 3151073,
-        "share": 0.38855844580222326
+        "share": 0.38660071255080997
       },
       {
         "name": "Lua",
         "bytes": 2125939,
         "weighted": 2125939,
-        "share": 0.26214929127644226
+        "share": 0.2608284645387639
       },
       {
         "name": "Rust",
         "bytes": 1199288,
         "weighted": 1199288,
-        "share": 0.1478840640471537
+        "share": 0.14713895722302714
       },
       {
         "name": "C++",
         "bytes": 485624,
         "weighted": 485624,
-        "share": 0.05988223906087192
+        "share": 0.05958052524704268
       },
       {
         "name": "HTML",
-        "bytes": 314181,
-        "weighted": 314181,
-        "share": 0.03874162263476229
+        "bytes": 355248,
+        "weighted": 355248,
+        "share": 0.04358487725681066
       },
       {
         "name": "Go",
         "bytes": 299278,
         "weighted": 299278,
-        "share": 0.03690393543494479
+        "share": 0.03671799671120958
       },
       {
         "name": "SCSS",
         "bytes": 162433,
         "weighted": 162433,
-        "share": 0.0200295943721369
+        "share": 0.01992867621339325
       },
       {
         "name": "C",
         "bytes": 152150,
         "weighted": 152150,
-        "share": 0.018761598835954695
+        "share": 0.01866706941242102
       },
       {
         "name": "JavaScript",
         "bytes": 76362,
         "weighted": 76362,
-        "share": 0.009416189354657722
+        "share": 0.009368746332377876
       },
       {
         "name": "CSS",
         "bytes": 67653,
         "weighted": 67653,
-        "share": 0.008342283575740014
+        "share": 0.00830025137665803
       },
       {
         "name": "Shell",
         "bytes": 21151,
         "weighted": 21151,
-        "share": 0.002608127354448096
+        "share": 0.0025949864288012945
       },
       {
         "name": "PowerShell",
         "bytes": 12272,
         "weighted": 12272,
-        "share": 0.00151325889526675
+        "share": 0.0015056344122854467
       },
       {
         "name": "Svelte",
         "bytes": 12200,
         "weighted": 12200,
-        "share": 0.0015043805836256806
+        "share": 0.0014968008335953756
       },
       {
         "name": "CMake",
         "bytes": 11477,
         "weighted": 11477,
-        "share": 0.0014152275375632734
+        "share": 0.001408096980915912
       },
       {
         "name": "Python",
         "bytes": 5720,
         "weighted": 5720,
-        "share": 0.0007053325359294174
+        "share": 0.0007017787514889795
       },
       {
         "name": "C#",
         "bytes": 3840,
         "weighted": 3840,
-        "share": 0.00047350995419037813
+        "share": 0.0004711241968037904
       },
       {
         "name": "Dockerfile",
         "bytes": 2980,
         "weighted": 2980,
-        "share": 0.000367463454033158
+        "share": 0.00036561200689460817
       },
       {
         "name": "MDX",
         "bytes": 1548,
         "weighted": 1548,
-        "share": 0.00019088370028299618
+        "share": 0.000189921941836528
       },
       {
         "name": "Tree-sitter Query",
         "bytes": 1071,
         "weighted": 1071,
-        "share": 0.00013206488566091016
+        "share": 0.00013139948301480717
       },
       {
         "name": "Batchfile",
         "bytes": 1036,
         "weighted": 1036,
-        "share": 0.0001277490397242791
+        "share": 0.00012710538226268927
       },
       {
         "name": "Vue",
         "bytes": 1028,
         "weighted": 1028,
-        "share": 0.00012676256065304915
+        "share": 0.00012612387351934804
       },
       {
         "name": "Assembly",
         "bytes": 897,
         "weighted": 897,
-        "share": 0.00011060896586165865
+        "share": 0.00011005166784713542
       },
       {
         "name": "Scheme",
         "bytes": 449,
         "weighted": 449,
-        "share": 0.00005536613787278119
+        "share": 0.000055087178220026535
       }
     ],
     "adjusted": [
@@ -329,35 +329,35 @@
   "distribution": [
     {
       "channel": "release_assets",
-      "count": 169,
+      "count": 171,
       "window": "all_time",
       "reliability": "observed",
       "note": "GitHub Release assets only"
     },
     {
       "channel": "clones",
-      "count": 2065,
+      "count": 2283,
       "window": "last_14_days",
       "reliability": "observed",
       "note": "summed across repositories; unique visitors are not summed"
     },
     {
       "channel": "clones",
-      "count": 2136,
+      "count": 2363,
       "window": "since:2026-11-03",
       "reliability": "partial",
       "note": "some repositories have no traffic data"
     },
     {
       "channel": "views",
-      "count": 94,
+      "count": 75,
       "window": "last_14_days",
       "reliability": "observed",
       "note": "summed across repositories; unique visitors are not summed"
     },
     {
       "channel": "views",
-      "count": 100,
+      "count": 101,
       "window": "since:2026-11-03",
       "reliability": "partial",
       "note": "some repositories have no traffic data"
@@ -476,14 +476,10 @@
         },
         {
           "start": "2026-11-16",
-          "count": 364
+          "count": 591
         }
       ],
       "days": [
-        {
-          "day": "2026-10-22",
-          "count": 0
-        },
         {
           "day": "2026-10-23",
           "count": 0
@@ -590,6 +586,10 @@
         },
         {
           "day": "2026-11-18",
+          "count": 227
+        },
+        {
+          "day": "2026-11-19",
           "count": 0
         }
       ]
@@ -699,14 +699,10 @@
         },
         {
           "start": "2026-11-16",
-          "count": 4
+          "count": 5
         }
       ],
       "days": [
-        {
-          "day": "2026-10-22",
-          "count": 0
-        },
         {
           "day": "2026-10-23",
           "count": 0
@@ -813,6 +809,10 @@
         },
         {
           "day": "2026-11-18",
+          "count": 1
+        },
+        {
+          "day": "2026-11-19",
           "count": 0
         }
       ]
